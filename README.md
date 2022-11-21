@@ -1,4 +1,4 @@
-# python-api-challenge: What's the Weather Like?
+# python-api-challenge
 
 ## Background
 
